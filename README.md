@@ -7,7 +7,7 @@ Following instructions [here](https://www.mongodb.com/developer/how-to/getting-s
   - this might require more initial setup but be useful for working in a distributed team
   - would require proper mocking on local instances
 
-Assuming that homebrew is already installed:
+Assuming that [homebrew](https://brew.sh/) is already installed:
 
 ```
 brew tap mongodb/brew
